@@ -1,2 +1,4 @@
 # Donor-s-Choose
-This project is taken from Kaggle.com and is done only on 50,000 dataset
+This project is taken from https://www.kaggle.com/c/donorschoose-application-screening and is done only on 50,000 dataset
+
+Steps Taken
